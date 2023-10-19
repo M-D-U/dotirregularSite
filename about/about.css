@@ -1,0 +1,21 @@
+.fas{
+    font-size: 90px !important;
+    text-align: center !important;
+}
+
+/* Custom CSS for aligning social media icons to the right */
+.social-media-icons {
+    margin-left: auto;
+  }
+  
+
+.team{
+    background-color: rgb(196, 196, 196);
+    border-radius: 5px;
+    padding: 15px;
+    /* width: 100vw; */
+}
+
+/* .personalInfomation{
+    background-color: aliceblue !important;
+} */
