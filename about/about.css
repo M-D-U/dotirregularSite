@@ -16,6 +16,22 @@
     /* width: 100vw; */
 }
 
-/* .personalInfomation{
-    background-color: aliceblue !important;
-} */
+.fa-handshake{
+    color: #3698c6 !important;
+}
+
+.fa-check-circle{
+    color: #b95e5d;
+}
+
+.fa-star{
+    color: #bb995c;
+}
+
+.fa-lightbulb{
+    color: #757d7b;
+}
+
+.fa-users{
+    color: #5fa0b2;
+}
